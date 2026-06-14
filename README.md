@@ -1,6 +1,6 @@
  # Java Beginner Project
  # 1 . Calculator 
-A basic calculator built using Java.
+A basic calculator built using Java./calculator.java
 
 * Accepts user input for two numbers and the desired operation
 
