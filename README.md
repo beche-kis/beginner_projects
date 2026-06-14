@@ -1,5 +1,5 @@
  # Java Beginner Project
-
+ # 1 . Calculator 
 A basic calculator built using Java.
 
 * Accepts user input for two numbers and the desired operation
