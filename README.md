@@ -1,4 +1,4 @@
- #Java Beginner Project
+ # Java Beginner Project
 
 A basic calculator built using Java.
 
